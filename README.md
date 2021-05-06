@@ -2,7 +2,7 @@
 
 Simple script to generate a scrum burndown chart based on story points.
 
-![example burndown chart](sprint1_burndown.jpg)
+![example burndown chart](sprint1_burndown.png)
 
 #### You need
 
